@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BackstopJsonWriter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\JaMu\\source\\repos\\BackstopJsonWriter\\urls.csv C:\\Users\\JaMu\\source\\repos\\BackstopJsonWriter\\"
+    }
+  }
+}
